@@ -2,251 +2,251 @@
   {
     "style_id": 1,
     "theme_name": "Ancient Ruins",
-    "background_image": "AncientRuins_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/AncientRuins_1.jpg"
   },
   {
     "style_id": 2,
     "theme_name": "Ancient Ruins",
-    "background_image": "AncientRuins_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/AncientRuins_2.jpg"
   },
-{
+  {
     "style_id": 3,
     "theme_name": "Autumn Drift",
-    "background_image": "AutumnDrift_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/AutumnDrift_1.jpg"
   },
   {
     "style_id": 4,
     "theme_name": "Autumn Drift",
-    "background_image": "AutumnDrift_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/AutumnDrift_2.jpg"
   },
   {
     "style_id": 5,
     "theme_name": "Cosmic Journey",
-    "background_image": "CosmicJourney_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/CosmicJourney_1.jpg"
   },
   {
     "style_id": 6,
     "theme_name": "Cosmic Journey",
-    "background_image": "CosmicJourney_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/CosmicJourney_2.jpg"
   },
   {
     "style_id": 7,
     "theme_name": "Crimson Bloom",
-    "background_image": "CrimsonBloom_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/CrimsonBloom_1.jpg"
   },
-{
+  {
     "style_id": 8,
     "theme_name": "Crimson Bloom",
-    "background_image": "CrimsonBloom_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/CrimsonBloom_2.jpg"
   },
   {
     "style_id": 9,
     "theme_name": "Dreams Of The Sky",
-    "background_image": "DreamsOfTheSky_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/DreamsOfTheSky_1.jpg"
   },
-{
+  {
     "style_id": 10,
     "theme_name": "Dreams Of The Sky",
-    "background_image": "DreamsOfTheSky_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/DreamsOfTheSky_2.jpg"
   },
   {
     "style_id": 11,
     "theme_name": "Dreamy Horizon",
-    "background_image": "DreamyHorizon_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/DreamyHorizon_1.jpg"
   },
-{
+  {
     "style_id": 12,
     "theme_name": "Dreamy Horizon",
-    "background_image": "DreamyHorizon_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/DreamyHorizon_2.jpg"
   },
-{
+  {
     "style_id": 13,
     "theme_name": "Electric Pulse",
-    "background_image": "ElectricPulse_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/ElectricPulse_1.jpg"
   },
-{
+  {
     "style_id": 14,
     "theme_name": "Electric Pulse",
-    "background_image": "ElectricPulse_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/ElectricPulse_2.jpg"
   },
-{
+  {
     "style_id": 15,
     "theme_name": "Eyes In The Dark",
-    "background_image": "EyesInTheDark_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/EyesInTheDark_1.jpg"
   },
-{
+  {
     "style_id": 16,
     "theme_name": "Eyes In The Dark",
-    "background_image": "EyesInTheDark_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/EyesInTheDark_2.jpg"
   },
-{
+  {
     "style_id": 17,
     "theme_name": "Fires Of Passion",
-    "background_image": "FiresofPassion_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/FiresofPassion_1.jpg"
   },
-{
+  {
     "style_id": 18,
     "theme_name": "Fires Of Passion",
-    "background_image": "FiresofPassion_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/FiresofPassion_2.jpg"
   },
-{
+  {
     "style_id": 19,
     "theme_name": "Fractured Mind",
-    "background_image": "FracturedMind_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/FracturedMind_1.jpg"
   },
-{
+  {
     "style_id": 20,
     "theme_name": "Fractured Mind",
-    "background_image": "FracturedMind_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/FracturedMind_2.jpg"
   },
-{
+  {
     "style_id": 21,
     "theme_name": "Golden Hour",
-    "background_image": "GoldenHour_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/GoldenHour_1.jpg"
   },
-{
+  {
     "style_id": 22,
     "theme_name": "Golden Hour",
-    "background_image": "GoldenHour_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/GoldenHour_2.jpg"
   },
-{
+  {
     "style_id": 23,
     "theme_name": "Haunted Echoes",
-    "background_image": "HauntedEchoes_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/HauntedEchoes_1.jpg"
   },
-{
+  {
     "style_id": 24,
     "theme_name": "Haunted Echoes",
-    "background_image": "HauntedEchoes_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/HauntedEchoes_2.jpg"
   },
-{
+  {
     "style_id": 25,
     "theme_name": "Lost In Time",
-    "background_image": "LostInTIme_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/LostInTIme_1.jpg"
   },
-{
+  {
     "style_id": 26,
     "theme_name": "Lost In Time",
-    "background_image": "LostInTIme_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/LostInTIme_2.jpg"
   },
-{
+  {
     "style_id": 27,
     "theme_name": "Mystery In The Dark",
-    "background_image": "MysteryInTheDark_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/MysteryInTheDark_1.jpg"
   },
-{
+  {
     "style_id": 28,
     "theme_name": "Mystery In The Dark",
-    "background_image": "MysteryInTheDark_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/MysteryInTheDark_2.jpg"
   },
-{
+  {
     "style_id": 29,
     "theme_name": "Mystical Forest",
-    "background_image": "MysticalForest_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/MysticalForest_1.jpg"
   },
-{
+  {
     "style_id": 30,
     "theme_name": "Mystical Forest",
-    "background_image": "MysticalForest_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/MysticalForest_2.jpg"
   },
-{
+  {
     "style_id": 31,
     "theme_name": "Nature Whisperer",
-    "background_image": "NatureWhisperer_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/NatureWhisperer_1.jpg"
   },
-{
+  {
     "style_id": 32,
     "theme_name": "Nature Whisperer",
-    "background_image": "NatureWhisperer_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/NatureWhisperer_2.jpg"
   },
-{
+  {
     "style_id": 33,
     "theme_name": "Oceans Embrace",
-    "background_image": "OceansEmbrace_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/OceansEmbrace_1.jpg"
   },
-{
+  {
     "style_id": 34,
     "theme_name": "Oceans Embrace",
-    "background_image": "OceansEmbrace_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/OceansEmbrace_2.jpg"
   },
-{
+  {
     "style_id": 35,
     "theme_name": "Phantom Shadows",
-    "background_image": "PhantomShadows_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/PhantomShadows_1.jpg"
   },
-{
+  {
     "style_id": 36,
     "theme_name": "Phantom Shadows",
-    "background_image": "PhantomShadows_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/PhantomShadows_2.jpg"
   },
-{
+  {
     "style_id": 37,
     "theme_name": "Poets Garden",
-    "background_image": "PoetsGarden_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/PoetsGarden_1.jpg"
   },
-{
+  {
     "style_id": 38,
     "theme_name": "Poets Garden",
-    "background_image": "PoetsGarden_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/PoetsGarden_2.jpg"
   },
-{
+  {
     "style_id": 39,
     "theme_name": "Soul Of Music",
-    "background_image": "SoulOfMusic_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/SoulOfMusic_1.jpg"
   },
-{
+  {
     "style_id": 40,
     "theme_name": "Soul Of Music",
-    "background_image": "SoulOfMusic_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/SoulOfMusic_2.jpg"
   },
-{
+  {
     "style_id": 41,
     "theme_name": "Urban Dreams",
-    "background_image": "UrbanDreams_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/UrbanDreams_1.jpg"
   },
-{
+  {
     "style_id": 42,
     "theme_name": "Urban Dreams",
-    "background_image": "UrbanDreams_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/UrbanDreams_2.jpg"
   },
-{
+  {
     "style_id": 43,
     "theme_name": "Wanderers Path",
-    "background_image": "WanderersPath_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WanderersPath_1.jpg"
   },
-{
+  {
     "style_id": 44,
     "theme_name": "Wanderers Path",
-    "background_image": "WanderersPath_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WanderersPath_2.jpg"
   },
-{
+  {
     "style_id": 45,
     "theme_name": "Whispers of Love",
-    "background_image": "WhispersofLove_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WhispersofLove_1.jpg"
   },
-{
+  {
     "style_id": 46,
     "theme_name": "Whispers of Love",
-    "background_image": "WhispersofLove_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WhispersofLove_2.jpg"
   },
-{
+  {
     "style_id": 47,
     "theme_name": "Winters Kiss",
-    "background_image": "WintersKiss_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WintersKiss_1.jpg"
   },
-{
+  {
     "style_id": 48,
     "theme_name": "Winters Kiss",
-    "background_image": "WintersKiss_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WintersKiss_2.jpg"
   },
-{
+  {
     "style_id": 49,
     "theme_name": "World Of Colors",
-    "background_image": "WorldOfColors_1.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WorldOfColors_1.jpg"
   },
   {
     "style_id": 50,
     "theme_name": "World Of Colors",
-    "background_image": "WorldOfColors_2.jpg"
+    "background_image": "https://raw.githubusercontent.com/rhymaura/rhymaura-assets/main/backgrounds/WorldOfColors_2.jpg"
   }
 ]
